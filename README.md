@@ -50,7 +50,7 @@ bert-news-summarizer/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/alexeyshumilov04/News-Summarizer.git
+git clone https://github.com/alexeyshumilov04/bert-news-summarizer.git
 cd bert-news-summarizer
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
