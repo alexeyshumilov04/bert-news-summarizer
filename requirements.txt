@@ -1,0 +1,11 @@
+torch>=2.0
+transformers>=4.30
+datasets>=2.14
+evaluate>=0.4
+rouge-score>=0.1
+bert-score>=0.3
+sacrebleu>=2.3
+tensorboard>=2.14
+pyyaml>=6.0
+tqdm>=4.66
+matplotlib>=3.7
