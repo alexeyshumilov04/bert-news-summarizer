@@ -34,7 +34,6 @@ bert-news-summarizer/
 ├── train.py             # Entry point: training
 ├── evaluate.py          # Entry point: ROUGE / BLEU / BERTScore
 ├── generate.py          # Entry point: inference
-├── hw_04.ipynb          # Original prototype notebook (kept for reference)
 └── src/
     ├── utils.py         # Seed, device, config loading, plotting
     ├── data.py          # gazeta loading, tokenization, DataLoaders
